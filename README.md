@@ -12,11 +12,9 @@
 
 [Landing page](https://prodpoke.com/mcp) · [Get an API key](https://prodpoke.com/app/settings/keys) · [Pricing](https://prodpoke.com/pricing) · [ProdPoke](https://prodpoke.com)
 
-<!-- TODO: replace with real demo once recorded
 <p align="center">
   <img src="assets/demo.gif" alt="ProdPoke MCP demo — scanning a site from Claude Desktop" width="720" />
 </p>
--->
 
 ---
 
